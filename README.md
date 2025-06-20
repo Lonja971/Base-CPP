@@ -1,0 +1,1 @@
+## Here I'm just starting to learn the whole C++ base on examples of game logic)

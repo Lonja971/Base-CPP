@@ -25,5 +25,4 @@ int main()
     else{
         cout << "Takogo nemaje";
     }
-
 }
